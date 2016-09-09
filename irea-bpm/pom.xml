@@ -10,7 +10,7 @@
 	<name>IRS :: EDA :: IREA Business Logic and Rules :: Parent</name>
 
 	<modules>
-	
+		<module>HelloWorld</module>
 	</modules>
 </project>
 

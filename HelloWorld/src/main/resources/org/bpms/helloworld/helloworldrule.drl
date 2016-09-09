@@ -1,0 +1,9 @@
+package org.bpms.helloworld;
+
+rule "helloworldrule"
+ruleflow-group "helloworldgroup"
+when
+then
+	System.out.println("Yes you did it World!");
+end
+
