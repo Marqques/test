@@ -10,5 +10,6 @@
   <modules>
     <module>irea-bpm</module>
     <module>irea-bpm-bc</module>
+    <module>irea-bpm-bc</module>
   </modules>
 </project>
