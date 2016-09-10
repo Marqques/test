@@ -1,0 +1,9 @@
+package gov.irs.irea.irea_bpm_bc;
+
+import java.lang.Number;
+
+rule "guided-rule"
+	dialect "mvel"
+	when
+	then
+end
